@@ -178,5 +178,9 @@ if __name__ == "__main__":
     Create material for course bash scripts etc
     Create material for git
     Create material for domain knowledge
+<<<<<<< HEAD
     Create motor for levels of gamification
+=======
+    Skapa olika nivåer för gamification
+>>>>>>> 1bf54d14333a2e0f4a080c40eda66342651aa408
     """
